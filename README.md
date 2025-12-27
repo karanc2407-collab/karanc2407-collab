@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Karan
 
-<!--
-**karanc2407-collab/karanc2407-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First Year Engineering Student  
+🎮 Learning Unreal Engine (Game Development)  
+💻 Exploring C & Python programming  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Beginner in programming and game development  
+- Interested in Unreal Engine and interactive applications  
+- Currently building strong fundamentals  
+- Learning step by step and uploading my progress  
+
+---
+
+## 🛠️ Skills & Tools
+- C Programming  
+- Python (Beginner)  
+- Unreal Engine  
+- Git & GitHub  
+
+---
+
+## 🎮 Unreal Engine Journey
+- Learning Unreal Engine basics  
+- Exploring Blueprints  
+- Interested in game mechanics and level design  
+
+---
+
+## 📌 Goals
+- Build beginner Unreal Engine projects  
+- Upload college practicals and programs  
+- Improve coding and problem-solving skills  
+- Prepare for future internships  
+
+---
+
+## 📫 Connect With Me
+- GitHub: (You are already here 😄)
+
+⭐ Thanks for visiting my profile!
+
